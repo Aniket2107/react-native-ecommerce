@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "603cc08d2b83091904100b0a"
+  },
+  "name": "Mobiles",
+  "icon": "mobile",
+  "color": "yellow",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603cc0bc2b83091904100b0b"
+  },
+  "name": "Watches",
+  "icon": "watch",
+  "color": "black",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603cc0cc2b83091904100b0c"
+  },
+  "name": "Laptop",
+  "icon": "comp",
+  "color": "grey",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603cc0de2b83091904100b0d"
+  },
+  "name": "Refrigerator",
+  "icon": "fridge",
+  "color": "red",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603cc0ff2b83091904100b0e"
+  },
+  "name": "Camera",
+  "icon": "cam",
+  "color": "blue",
+  "__v": 0
+}]

@@ -1,0 +1,221 @@
+[{
+  "_id": {
+    "$oid": "603cc4cc1855911c8041dab7"
+  },
+  "richDescription": "",
+  "image": "http://localhost:5000/public/uploads/1.jpg-1614595276194.jpeg",
+  "images": [],
+  "brand": "Xiaomi",
+  "price": 15000,
+  "rating": 0,
+  "numReviews": 0,
+  "isFeatured": false,
+  "dateCreated": {
+    "$date": "2021-03-01T10:34:10.294Z"
+  },
+  "name": "Redmi Note9 pro",
+  "description": "Android smartphone with 4 cameras",
+  "category": {
+    "$oid": "603cc08d2b83091904100b0a"
+  },
+  "countInStock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603cf4a180e6981e18d657d1"
+  },
+  "richDescription": "",
+  "image": "http://localhost:5000/public/uploads/3.jpg-1614607521337.jpeg",
+  "images": [],
+  "brand": "Apple",
+  "price": 150000,
+  "rating": 0,
+  "numReviews": 0,
+  "isFeatured": false,
+  "dateCreated": {
+    "$date": "2021-03-01T14:03:03.965Z"
+  },
+  "name": "Iphone 12 Pro max",
+  "description": "IOS smartphone",
+  "category": {
+    "$oid": "603cc08d2b83091904100b0a"
+  },
+  "countInStock": 12,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603cf4d080e6981e18d657d2"
+  },
+  "richDescription": "",
+  "image": "http://localhost:5000/public/uploads/2.jpg-1614607568235.jpeg",
+  "images": [],
+  "brand": "Xiaomi",
+  "price": 20000,
+  "rating": 0,
+  "numReviews": 0,
+  "isFeatured": false,
+  "dateCreated": {
+    "$date": "2021-03-01T14:03:03.965Z"
+  },
+  "name": "Redmi K20",
+  "description": "Android 10 smartphone",
+  "category": {
+    "$oid": "603cc08d2b83091904100b0a"
+  },
+  "countInStock": 15,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603cf51c80e6981e18d657d3"
+  },
+  "richDescription": "",
+  "image": "http://localhost:5000/public/uploads/4.jpg-1614607644765.jpeg",
+  "images": [],
+  "brand": "Apple",
+  "price": 60000,
+  "rating": 0,
+  "numReviews": 0,
+  "isFeatured": false,
+  "dateCreated": {
+    "$date": "2021-03-01T14:03:03.965Z"
+  },
+  "name": "Iphone XR",
+  "description": "IOS smartphone",
+  "category": {
+    "$oid": "603cc08d2b83091904100b0a"
+  },
+  "countInStock": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603cf56880e6981e18d657d4"
+  },
+  "richDescription": "",
+  "image": "http://localhost:5000/public/uploads/9.jpg-1614607720026.jpeg",
+  "images": [],
+  "brand": "Apple",
+  "price": 18000,
+  "rating": 0,
+  "numReviews": 0,
+  "isFeatured": false,
+  "dateCreated": {
+    "$date": "2021-03-01T14:03:03.965Z"
+  },
+  "name": "Iwatch",
+  "description": "Smart watch",
+  "category": {
+    "$oid": "603cc0bc2b83091904100b0b"
+  },
+  "countInStock": 20,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603cf5c080e6981e18d657d5"
+  },
+  "richDescription": "",
+  "image": "http://localhost:5000/public/uploads/6.jpg-1614607808421.jpeg",
+  "images": [],
+  "brand": "Apple",
+  "price": 200000,
+  "rating": 0,
+  "numReviews": 0,
+  "isFeatured": false,
+  "dateCreated": {
+    "$date": "2021-03-01T14:03:03.965Z"
+  },
+  "name": "Mackbook Pro ",
+  "description": "i7 10th gen 8gb* 512gb",
+  "category": {
+    "$oid": "603cc0cc2b83091904100b0c"
+  },
+  "countInStock": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603cf5e580e6981e18d657d6"
+  },
+  "richDescription": "",
+  "image": "http://localhost:5000/public/uploads/5.jpg-1614607845101.jpeg",
+  "images": [],
+  "brand": "Apple",
+  "price": 200000,
+  "rating": 0,
+  "numReviews": 0,
+  "isFeatured": false,
+  "dateCreated": {
+    "$date": "2021-03-01T14:03:03.965Z"
+  },
+  "name": "Mackbook Air",
+  "description": "i5 10th gen 8gb* 252gb",
+  "category": {
+    "$oid": "603cc0cc2b83091904100b0c"
+  },
+  "countInStock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603cf63d80e6981e18d657d7"
+  },
+  "richDescription": "",
+  "image": "http://localhost:5000/public/uploads/11.jpg-1614607933281.jpeg",
+  "images": [],
+  "brand": "Nikon",
+  "price": 45000,
+  "rating": 0,
+  "numReviews": 0,
+  "isFeatured": false,
+  "dateCreated": {
+    "$date": "2021-03-01T14:03:03.965Z"
+  },
+  "name": "Nikon Camera",
+  "description": "40d camera",
+  "category": {
+    "$oid": "603cc0ff2b83091904100b0e"
+  },
+  "countInStock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603cf67d80e6981e18d657d8"
+  },
+  "richDescription": "",
+  "image": "http://localhost:5000/public/uploads/12.jpg-1614607997737.jpeg",
+  "images": [],
+  "brand": "India",
+  "price": 60000,
+  "rating": 0,
+  "numReviews": 0,
+  "isFeatured": true,
+  "dateCreated": {
+    "$date": "2021-03-01T14:03:03.965Z"
+  },
+  "name": "Sample Camera",
+  "description": "60d camera",
+  "category": {
+    "$oid": "603cc0ff2b83091904100b0e"
+  },
+  "countInStock": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603cf6df80e6981e18d657d9"
+  },
+  "richDescription": "",
+  "image": "http://localhost:5000/public/uploads/8.jpg-1614608095114.jpeg",
+  "images": [],
+  "brand": "Wirlpool",
+  "price": 30000,
+  "rating": 0,
+  "numReviews": 0,
+  "isFeatured": false,
+  "dateCreated": {
+    "$date": "2021-03-01T14:03:03.965Z"
+  },
+  "name": "Wirlpool Refrigerator",
+  "description": "3 start 390L capacity",
+  "category": {
+    "$oid": "603cc0de2b83091904100b0d"
+  },
+  "countInStock": 10,
+  "__v": 0
+}]
