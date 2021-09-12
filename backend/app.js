@@ -28,6 +28,6 @@ app.use("/api/order", require("./Routes/Order"));
 app.use("/api/product", require("./Routes/Product"));
 app.use("/api/category", require("./Routes/Category"));
 
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 8080;
 
 app.listen(PORT, () => console.log(`Server running at port ${PORT} `));
